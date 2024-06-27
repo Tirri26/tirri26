@@ -1,6 +1,6 @@
 ## Hi, I'm Krzysztof 👋
 
-Here are some ideas to get you started:
+Here are some information of me:
 
 - 🌱 I’m currently learning Java
 - 📝 An owner polish server Minecraft - itowermc.pl
